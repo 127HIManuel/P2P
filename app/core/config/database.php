@@ -1,5 +1,6 @@
 <?php
 define('ROOT','http://107.22.107.242/');
+define('ROOT1','localhost/project2/public/');
 define('ASSETS', 'http://107.22.107.242/assets/');
 define('TITLE','Pathway to Purpose');
 define('DBUSER','admin');//root
