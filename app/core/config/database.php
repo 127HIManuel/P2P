@@ -1,5 +1,5 @@
 <?php
-define('ROOT','http://107.22.107.242/P2P/public/');
+define('ROOT','http://107.22.107.242/');
 define('ASSETS', 'http://107.22.107.242/P2P/public/assets/');
 define('TITLE','Pathway to Purpose');
 define('DBUSER','admin');//root
