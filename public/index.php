@@ -5,13 +5,13 @@
     $url = explode("/", $url);
         
     $pagename = trim($url[0]);
-
-    $filename = "http://107.22.107.242/app/core/pages/".$pagename.".php";
+        
+    $filename = "../app/core/pages/".$pagename.".php";
 
     if(file_exists($filename)){
         require_once $filename;
     }else{
-        require_once "http://107.22.107.242/app/core/pages/404.php";
+        require_once "../app/core/pages/404.php";
     }
     
     
