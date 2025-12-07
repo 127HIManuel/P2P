@@ -186,7 +186,7 @@
         <li><a href="<?=ROOT?>#contact">Contact</a></li>
         <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
    </nav>
-        <a class="cta-btn" href="<?=ROOT?>login">Get Started</a>
+        <a class="cta-btn" href="<?=PATH?>login">Get Started</a>
       <?php endif;?>
       
     </ul>
