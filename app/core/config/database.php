@@ -1,6 +1,6 @@
 <?php
 define('ROOT','http://107.22.107.242/public/');
-define('PATH','http://107.22.107.242/app/pages/');
+define('PATH','http://107.22.107.242/app/core/pages/');
 define('ASSETS', 'http://107.22.107.242/public/assets/');
 define('TITLE','Pathway to Purpose');
 define('DBUSER','admin');//root
