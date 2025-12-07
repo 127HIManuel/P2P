@@ -1,6 +1,6 @@
 <?php
-define('ROOT','http://107.22.107.242/P2P/public/');
-define('ASSETS', 'http://107.22.107.242/P2P/public/assets/');
+define('ROOT','http://107.22.107.242/public/');
+define('ASSETS', 'http://107.22.107.242/public/assets/');
 define('TITLE','Pathway to Purpose');
 define('DBUSER','admin');//root
 define('DBNAME','p2p-database');//p2p_db
